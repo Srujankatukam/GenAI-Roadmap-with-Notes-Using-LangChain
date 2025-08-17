@@ -296,6 +296,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Adil Shamim](https://github.com/AdilShamim8)
+Made with by [Adil Shamim](adilshamim.me)
 
-Last updated: July 2025
+Last updated: August 2025
