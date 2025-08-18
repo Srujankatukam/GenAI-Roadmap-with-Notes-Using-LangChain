@@ -7,7 +7,7 @@
 
 A comprehensive roadmap and resource collection for learning Generative AI with practical implementation using LangChain. This repository serves as a guided journey from basic concepts to advanced applications in the generative AI space.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [GenAI Roadmap](#genai-roadmap)
@@ -19,11 +19,11 @@ A comprehensive roadmap and resource collection for learning Generative AI with 
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🔍 Overview
+## Overview
 
 This repository provides a structured learning path for developers interested in Generative AI with a focus on practical implementation using LangChain. It contains curated notes, code examples, and implementation guides to help you progress from foundational concepts to building sophisticated GenAI applications.
 
-## 🛣️ GenAI Roadmap
+## GenAI Roadmap
 
 ### 1. Foundations (2-4 weeks)
 - **Machine Learning Basics**
@@ -105,7 +105,7 @@ This repository provides a structured learning path for developers interested in
   - Drift Detection
   - Continuous Improvement
 
-## 🔗 LangChain Integration
+## LangChain Integration
 
 LangChain provides a framework for developing applications powered by language models. This repository demonstrates how to leverage LangChain for:
 
@@ -115,7 +115,7 @@ LangChain provides a framework for developing applications powered by language m
 - **Developing Autonomous Agents**
 - **Connecting LLMs to External Tools and APIs**
 
-## 📚 Top Resources
+## Top Resources
 
 ### Official Documentation
 - [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction)
@@ -153,7 +153,7 @@ LangChain provides a framework for developing applications powered by language m
 - [Training Language Models to Follow Instructions with Human Feedback](https://arxiv.org/abs/2203.02155) - InstructGPT/RLHF
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) - RAG paper
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -184,7 +184,7 @@ pip install -r requirements.txt
 echo "OPENAI_API_KEY=your_openai_api_key" > .env
 ```
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 GenAI-Roadmap-with-Notes-Using-LangChain/
@@ -215,7 +215,7 @@ GenAI-Roadmap-with-Notes-Using-LangChain/
 └── README.md                  # This documentation
 ```
 
-## 🧪 Examples
+## Examples
 
 ### Basic LangChain Chain
 
@@ -278,7 +278,7 @@ print(response)
 
 Check the `notebooks/` directory for more complete examples and tutorials.
 
-## 👥 Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to add to this roadmap, improve existing content, or share your implementations:
 
@@ -290,7 +290,7 @@ Contributions are welcome! If you'd like to add to this roadmap, improve existin
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
