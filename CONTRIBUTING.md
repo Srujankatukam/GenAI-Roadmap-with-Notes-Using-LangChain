@@ -1,12 +1,12 @@
 # Contributing to GenAI Roadmap with Notes Using LangChain
 
-First off, thank you for considering contributing to the GenAI Roadmap! It's people like you that make this resource valuable for the community.
+First off, thank you for considering contributing to the GenAI Roadmap! It's people like you who make this resource valuable for the community.
 
 This document provides guidelines and instructions for contributing to this project. Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [adilshamim696@gmail.com].
+This project and everyone participating in it are governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [adilshamim696@gmail.com].
 
 ## How Can I Contribute?
 
@@ -63,7 +63,7 @@ When submitting a pull request:
 
 * Use the present tense ("Add feature" not "Added feature")
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
-* Limit the first line to 72 characters or less
+* Limit the first line to 72 characters or fewer
 * Reference issues and pull requests liberally after the first line
 * Consider starting the commit message with an applicable emoji:
     * 📚 when adding or updating documentation
@@ -96,7 +96,7 @@ The maintainers will review your pull request and may suggest changes or improve
 1. Checking if the contribution fits the project scope
 2. Verifying technical accuracy
 3. Checking content quality and clarity
-4. Testing code examples if applicable
+4. Testing code examples, if applicable
 
 Once approved, your contributions will be merged into the main branch.
 
