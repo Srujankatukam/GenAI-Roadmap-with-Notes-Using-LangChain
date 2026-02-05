@@ -8,7 +8,7 @@
 A comprehensive roadmap and resource collection for learning Generative AI with practical implementation using LangChain. This repository serves as a guided journey from basic concepts to advanced applications in the generative AI space.
 
 ## Table of Contents
-
+ 
 - [Overview](#overview)
 - [GenAI Roadmap](#genai-roadmap)
 - [LangChain Integration](#langchain-integration)
